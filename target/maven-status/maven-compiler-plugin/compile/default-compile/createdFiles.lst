@@ -1,0 +1,15 @@
+com\miraclear\viewing\controller\ApiController.class
+com\miraclear\viewing\controller\FileController.class
+com\miraclear\viewing\dto\AppConfigDto.class
+com\miraclear\viewing\dto\AppConfigDto$SupportedFormats.class
+com\miraclear\viewing\controller\ModelController.class
+com\miraclear\viewing\config\WebConfig$1.class
+com\miraclear\viewing\dto\ModelDto.class
+com\miraclear\viewing\ViewingApplication.class
+com\miraclear\viewing\dto\AuthDto.class
+com\miraclear\viewing\dto\ModelDto$FullInfo.class
+com\miraclear\viewing\dto\ModelDto$DetailInfo.class
+com\miraclear\viewing\service\StorageService.class
+com\miraclear\viewing\config\WebConfig.class
+com\miraclear\viewing\dto\AuthDto$Request.class
+com\miraclear\viewing\dto\AuthDto$Response.class
