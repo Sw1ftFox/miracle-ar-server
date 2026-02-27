@@ -28,7 +28,7 @@ public class WebConfig implements WebMvcConfigurer {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/api/**")
-                        .allowedOrigins("http://localhost:3000", "https://ar-frontend-dcei.onrender.com", "https://miracle-ar-client.vercel.app") // URL вашего React приложения
+                        .allowedOrigins("http://localhost:3000", "https://ar-frontend-dcei.onrender.com", "https://miracle-ar-client.vercel.app", "https://sw1ftfox-miracle-ar-client-6b94.twc1.net")
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);
